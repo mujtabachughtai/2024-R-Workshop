@@ -1,0 +1,13 @@
+# Ignore sensitive data file
+RWorkshop.csv
+
+# Ignore rendered output files
+RWorkshop.html
+
+# Ignore RStudio files and project metadata
+.Rhistory
+.RData
+.Rproj.user/
+
+# Ignore rsconnect folder (used for publishing to RStudio Connect)
+rsconnect/
