@@ -1,5 +1,5 @@
 ---
-title: "R Workshop"
+title: "2024 R Workshop"
 author: "Muji Chughtai"
 date: "`r Sys.Date()`"
 output: 
